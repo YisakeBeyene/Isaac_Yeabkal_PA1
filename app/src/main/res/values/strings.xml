@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="welcomeText">Welcome! \n\n This app is a converter between different units. \n \n Choose what units to convert below.</string>
+    <string name="launchConverter">Launch Converter</string>
+    <string name="k2pString">Kilogram (Kg) to Pounds (lb)</string>
+    <string name="p2kString">Pounds (lb) to Kilogram (Kg)</string>
+    <string name="k2mString">Kilometers (Km) to Miles (ml)</string>
+    <string name="m2kString">Miles (ml) to Kilometers (Km)</string>
+    <string name="originalMeasurement">Original measurement:</string>
+    <string name="convert">Convert</string>
+    <string name="startOver">Start Over</string>
+    <string name="convertingText">Converting X to Y</string>
+    <string name="measurementText">Enter a measurement in ...</string>
+    <string name="resulttesxt">resultTesxt</string>
+</resources>
